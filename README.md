@@ -25,5 +25,5 @@ back to its original state.
 Conflict Finder
 ============
 This program will scan a tree for possible conflicts when running box (un)Packer; it then lists all the folders that have 
-eponymous boxPack archives (\*.boxPack.zip.\*) next to them (sign of incomlete archival or extraction).
+eponymous boxPack archives (\*.boxPack.zip.\*) next to them (sign of incomplete archival or extraction).
 
